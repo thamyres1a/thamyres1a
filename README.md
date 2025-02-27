@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**thamyres1a/thamyres1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thamyres2ba/thamyres2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
